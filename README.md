@@ -13,6 +13,13 @@ Steps :
 3.Populating data into MYSQL database and then move into Data Warehouse using the above mentioned tools.
 
 Project Decription.
+The Project is to make a Data Warehouse which will give the details of the Universities  in the USA.
+
+Data Collection
+
+
+
+
 
 
 
