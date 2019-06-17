@@ -1,0 +1,226 @@
+Times_id,Rank,UniversityName,State,Fees,RommAndBoard,PayAfterGraduate,OverallScore,Resources,Engagement,Opporunities
+1,432,Albany Medical College,Louisiana,21821,9515,38000,40.2,15.4,15.4,15.4
+2,141,Arizona State University,Arizona,25458,11061,45000,64.4,14,16.7,25.7
+3,306,Auburn University,Alabama,28040,12584,46000,54.8,13,17.6,21.1
+4,54,Augusta University,North Carolina,33673,10902,51000,80.2,20.7,16.5,37.6
+5,27,Baylor College of Medicine,North Carolina,19703,10899,42000,48,15.4,15.4,16.3
+6,188,Baylor University,Texas,40198,11360,49000,61.5,17.1,17.7,22.4
+7,122,Binghamton University,North Carolina,21607,9426,36000,48,15.4,16.3,15.4
+8,60,Boston College,Massachusetts,49324,13496,67000,73.1,18,15.7,34.8
+9,40,Boston University,Massachusetts,48436,14520,60000,78.2,21.3,16.9,33.6
+10,827,Bowling Green State University,Ohio,18332,8496,39000,23.71,15.4,17.2,15
+11,87,Brandeis University,Massachusetts,49298,13856,58000,69.9,21.8,15.7,26.4
+12,330,Brigham Young University,North Dakota,18899,7492,46000,48,14.1,16.4,15.4
+13,11,Brown University,Rhode Island,49346,12700,60000,87.5,26.8,17.7,36.1
+14,7,California Institute of Technology,California,45390,13371,76000,89.8,30,14.6,38.8
+15,20,Carnegie Mellon University,Pennsylvania,50665,12830,74000,86.1,25.4,17.3,36.8
+16,34,Case Western Reserve University,Ohio,44560,13850,68000,79.6,24.2,16.5,32.6
+17,461,City College of New York,Iowa,29940,9000,41000,49.4,16.7,15.3,15.5
+18,152,Clarkson University,New York,44630,13844,68000,63.8,17.9,14.6,27.2
+19,189,Clemson University,South Carolina,32800,8718,50000,61.5,14.1,17,27.2
+20,944,College of William and Mary,Texas,19090,8199,42000,48,15.4,17,15.4
+21,191,Colorado School of Mines,Connecticut,34828,11008,75000,61.4,15.5,15.1,26.5
+22,320,Colorado State University,Colorado,27267,10794,44000,54.5,12.7,17,20.9
+23,2,Columbia University,New York,53000,12860,74000,90.6,27,16.7,39
+24,10,Cornell University,New York,49116,13678,72000,88.9,26.8,17.5,38.1
+25,135,Creighton University,Nebraska,36422,10294,57000,65.2,21.2,16.7,23.9
+26,17,Dartmouth College,New Hampshire,49506,14238,67000,86.8,26.6,17.3,37
+27,85,Drexel University,Pennsylvania,44114,14730,62000,70,20.3,17,25.7
+28,5,Duke University,North Carolina,49241,14032,77000,90.2,26.7,17.2,39.5
+29,440,East Carolina University,North Carolina,22154,9319,39000,50.3,10.7,16.9,17.8
+30,19,Emory University,Georgia,46314,13130,59000,86.4,26,16.6,36.2
+31,661,Florida Atlantic University,Florida,17276,11748,41000,40.3,15.4,15.9,15.4
+32,213,Florida Institute of Technology,Florida,39290,13500,54000,60.1,21.2,15.7,15.7
+33,538,Florida International University,Florida,18954,10702,44000,45.2,15.4,16.2,17
+34,255,Florida State University,Florida,21673,10264,44000,57.7,9.4,16.8,25.8
+35,275,George Mason University,Virginia,31598,11368,57000,56.7,11,15.7,23.7
+36,64,George Washington University,District of Columbia,48280,12050,65000,72.7,21,16.1,29.3
+37,31,Georgetown University,District of Columbia,48611,14574,84000,80.8,23.1,16.1,35.3
+38,53,Georgia Institute of Technology,Georgia,32396,10716,74000,74.2,15.6,15.6,35.8
+39,667,Georgia State University,Georgia,23542,13700,41000,40.3,15.4,15.4,15.4
+40,1,Harvard University,Massachusetts,45278,15381,91000,91.9,29.8,15.6,39.5
+41,104,Howard University,District of Columbia,23970,13646,46000,67.5,21.5,16.2,23.8
+42,468,Hunter College,Indiana,47929,13846,70000,83.1,24.4,17.1,37
+43,717,Icahn School of Medicine at Mount Sinai,Oklahoma,21451,9742,47000,57.7,12.9,16.6,22.2
+44,125,Illinois Institute of Technology,Illinois,42962,11516,69000,65.7,17.4,14.1,26.2
+45,333,Indiana University  Bloomington,Oregon,32024,11430,42000,55.7,11.5,16.2,21.9
+46,460,Indiana University Purdue University Indianapolis,Pennsylvania,49536,13990,79000,89.6,27,17.3,38.4
+47,292,Iowa State University,Iowa,20856,8070,48000,55.5,10.9,16.7,23.3
+48,18,Johns Hopkins University,Maryland,48710,14540,68000,86.8,25.7,16.2,37.7
+49,356,Kansas State University,Kansas,23429,8430,43000,53,13.3,17.3,18
+50,906,Kent State University,Ohio,18212,10334,36000,23.71,15.4,16.6,15.4
+51,50,Lehigh University,Pennsylvania,46230,12280,77000,75.4,23.5,16.9,29.5
+52,956,Loma Linda University,Pennsylvania,28958,10900,48000,71,18.4,16.5,31.4
+53,445,Louisiana State University,Louisiana,26877,11200,46000,50.1,10.5,16.3,18.7
+54,923,Louisiana Tech University,Louisiana,25852,6702,41000,23.7,15.4,16.7,15.4
+55,194,Loyola University Chicago,Illinois,39179,13310,51000,61.3,15.4,16.1,24.3
+56,158,Marquette University,Wisconsin,37170,11220,56000,63.2,15.4,17.1,26.8
+57,3,Massachusetts Institute of Technology,Massachusetts,46704,13730,90000,90.4,29.2,15.8,38.2
+58,33,Medical College of Wisconsin,Rhode Island,28852,11956,48000,45.4,15.4,16.1,17.2
+59,314,Medical University of South Carolina,Ohio,30987,11644,46000,54.6,11.4,17.5,20.9
+60,80,Miami University,Michigan,36934,9524,50000,70.5,15.8,17.3,31.6
+61,156,Michigan State University,Michigan,31088,9857,61000,63.4,17.4,16.6,25.5
+62,559,Michigan Technological University,Mississippi,20142,9068,40000,45.2,15.4,16.6,15.4
+63,187,Mississippi State University,Missouri,26152,9464,65000,61.6,15.9,14.9,25.7
+64,710,Missouri University of Science and Technology,Montana,22081,8650,40000,40.3,15.4,16,15.4
+65,373,Montana State University,New Jersey,30326,13300,65000,52.5,10.3,13.4,21
+66,719,New Jersey Institute of Technology,New Mexico,19652,8064,33000,40.3,15.4,16.2,15.4
+67,565,New Mexico State University,New York,48260,14294,56000,74.6,24.2,16.5,28
+68,29,New York Medical College,New York,47750,17580,59000,81,23.4,17.1,32.8
+69,137,New York University,North Carolina,24932,10311,48000,65,15.6,17,28
+70,566,North Carolina State University,Alabama,14364,7450,38000,45.1,15.4,15.4,15.4
+71,67,North Dakota State University,Massachusetts,45530,14470,61000,72.2,18.7,17.4,30.1
+72,731,Northeastern University,Arizona,15723,9132,39000,40.3,15.4,16.6,15.4
+73,569,Northern Arizona University,Illinois,23760,10766,44000,45.2,13,15.4,15.4
+74,15,Northern Illinois University,Illinois,49047,14936,64000,87.3,27.2,17.2,36.6
+75,736,Northwestern University,Michigan,24736,9250,43000,40.3,15.4,16.4,15.4
+76,69,Oakland University,Ohio,27365,11706,43000,72.1,16.2,17.2,33.5
+77,494,Ohio State University,Ohio,20039,10864,40000,48.4,11.1,17.3,15.8
+78,416,Ohio University,Oklahoma,20978,8860,44000,50.9,8.8,16.7,20
+79,740,Oklahoma State University,Virginia,26220,10644,43000,45.1,15.4,15.4,15.4
+80,567,Old Dominion University,South Carolina,30298,9872,42000,57,12.7,16.2,23.6
+81,309,Oregon Health & Science University,Oregon,28767,11874,46000,54.8,11,16.3,21.7
+82,126,Oregon State University,Pennsylvania,31346,10926,48000,65.7,17.9,17,25.4
+83,748,Pennsylvania State University,Oregon,24009,10010,42000,45.1,15.4,15.4,15.4
+84,9,Portland State University,New Jersey,43450,14160,76000,89.5,28.1,15.6,39.1
+85,43,Princeton University,Indiana,28804,10030,53000,77.1,20.2,17.1,34
+86,568,Purdue University,Florida,17324,9400,41000,50.3,8,16.4,18.3
+87,88,Queens College City University of New York,New York,49341,14095,81000,69.9,18.8,15,29.5
+88,14,Rensselaer Polytechnic Institute,Texas,42253,13650,62000,87.4,27.2,17.1,36.3
+89,132,Rice University,New York,37124,11918,58000,65.4,18,17,25.2
+90,24,Rochester Institute of Technology,California,50277,13855,67000,87.3,25.4,17.6,36.5
+91,256,Rockefeller University,Mississippi,16204,8850,36000,45.1,15.4,16.5,15.4
+92,106,Rush University,Missouri,39226,10640,54000,67.4,20.7,16.2,25.7
+93,382,Rutgers University,California,18136,15826,48000,52.3,6.5,16.3,21.5
+94,765,Saint Louis University,California,17636,13434,47000,40.5,15.4,15.4,15.4
+95,340,San Diego State University,Illinois,25448,9996,41000,53.7,15.9,16.4,14.3
+96,81,San Francisco State University,Texas,48190,15575,53000,70.4,20.7,17.1,27.1
+97,4,Southern Illinois University Carbondale,California,46320,14107,83000,90.4,26.2,17.4,38.9
+98,287,Southern Methodist University,Tennessee,30368,9926,42000,54.6,14,16.6,20.2
+99,148,Stanford University,New York,23935,12032,55000,64.1,16.2,15.3,24.6
+100,8,State University of New York Upstate Medical University,Texas,19104,8398,46000,48,15.4,15.4,16.4
+101,108,Stony Brook University,New York,43318,14880,57000,67.2,15.7,17,28.5
+102,161,SUNY Downstate Medical Center,Pennsylvania,25994,11146,47000,63.1,15.4,17.1,23.5
+103,94,Syracuse University,Texas,27745,10338,53000,69.1,14.6,17.9,30.9
+104,499,Temple University,Texas,17388,8928,47000,48.3,7.2,16.8,18.5
+105,76,Texas A&M University,Texas,34676,11456,53000,73.8,16.5,17.4,33.2
+106,32,Texas Tech University,Massachusetts,50604,13094,66000,80.6,25.8,16.4,32.5
+107,71,The Catholic University of America,Louisiana,49638,13186,53000,71.8,24.6,16.8,25.8
+108,575,Thomas Jefferson University,Texas,26894,9944,50000,49.4,9.9,14.9,17.2
+109,51,Tufts University,Texas,18959,9429,39000,40.2,15.4,16.2,15.4
+110,117,Tulane University,New York,24461,12761,49000,66.4,19.7,15.8,23.5
+111,771,Uniformed Services University of the Health Sciences,Texas,17169,10796,44000,40.1,15.4,16.3,15.4
+112,270,University at Albany SUNY,Ohio,18885,10613,40000,48.9,12.3,16.5,14.3
+113,268,University at Buffalo,Alabama,17654,10809,40000,57,15.9,15.7,18.8
+114,456,University of Akron,Alabama,20622,9205,46000,49.6,13.5,15.7,14.7
+115,501,University of Alabama - Tuscaloosa,Alaska,20534,8380,37000,48.2,19.2,14.1,8.5
+116,179,University of Alabama at Birmingham,Arizona,30030,9840,44000,61.7,11.9,17,25.8
+117,41,University of Alabama in Huntsville,California,38139,15847,62000,78.2,18.6,16.6,34.6
+118,46,University of Alaska Fairbanks,California,38659,14571,57000,76.8,18.1,17,33.2
+119,139,University of Arizona,California,37960,12947,55000,64.8,15.8,16.3,23.5
+120,25,University of Arkansas - Fayetteville,California,37471,14832,59000,82.2,19.8,16.9,36.7
+121,273,University of Arkansas for Medical Sciences,California,38235,13800,48000,56.8,13.5,16,18.9
+122,47,"University of California, Berkeley",California,38238,12071,59000,76.1,17.8,15.5,34.1
+123,99,"University of California, Davis",California,38676,14594,52000,68.1,14,16.5,30
+124,286,"University of California, Irvine",California,38169,14952,44000,55.7,11.2,14.9,21.8
+125,483,"University of California, Los Angeles",Florida,22467,9764,43000,48.7,5.6,16.6,19.7
+126,12,"University of California, Merced",Illinois,50193,14772,63000,87.5,26.9,15.5,38.2
+127,329,"University of California, Riverside",Ohio,26334,10750,39000,54.2,12.5,17.3,19.5
+128,175,"University of California, San Diego",Colorado,34125,13194,48000,62.1,13.7,16.6,27.1
+129,105,"University of California, San Francisco",Connecticut,34908,12436,54000,67.4,18,16.5,27
+130,224,"University of California, Santa Barbara",Ohio,39090,12190,51000,59.6,14.1,17.2,24.4
+131,149,"University of California, Santa Cruz",Delaware,31420,11830,55000,64,15.8,16.7,27.1
+132,96,University of Central Florida,Colorado,44178,11702,52000,68.6,19.8,16.3,27.3
+133,58,University of Chicago,Florida,28659,9650,51000,73.6,14.8,17,35.5
+134,261,University of Cincinnati,Georgia,29832,9450,47000,57.3,10.3,17.1,25.3
+135,391,University of Colorado Boulder,Texas,20519,9849,49000,51.8,8.1,16.3,19.3
+136,544,University of Colorado Denver  Anschutz Medical Campus,Idaho,21024,8328,40000,48,13.3,17,15.4
+137,111,University of Connecticut,Illinois,27447,10882,51000,66.7,17.7,16,24.8
+138,48,University of Dayton,Illinois,33222,11010,57000,75.8,15.5,17.1,35.9
+139,146,University of Delaware,Iowa,27890,9728,49000,64.2,15.9,16.9,26.5
+140,262,University of Denver,Kansas,24708,9176,45000,57.2,16.4,17,18.5
+141,366,University of Florida,Kentucky,24268,11434,42000,52.8,13,16.8,19.3
+142,407,University of Georgia,Kentucky,25050,7942,38000,51.2,18.8,15.2,12.2
+143,691,University of Hawaii at Manoa,Maine,28880,9576,39000,45.1,12.4,16.4,15.4
+144,359,University of Houston,Maryland,23770,11454,54000,52.9,9.4,15,21.6
+145,82,University of Idaho,Maryland,31144,11521,60000,70.3,13.1,16.7,34
+146,155,University of Illinois at Chicago,Massachusetts,30689,11503,49000,63.4,14.6,16.3,27.9
+147,463,University of Illinois at Urbana  Champaign,Massachusetts,29920,1200,46000,49.4,11.9,14.2,14.7
+148,701,University of Iowa,Massachusetts,29125,11670,50000,45.1,15.4,15.4,15.4
+149,556,University of Kansas,Tennessee,20615,9061,36000,48,14.1,15.4,15.4
+150,44,University of Kentucky,Florida,45724,12908,53000,77,21.7,17.2,30.5
+151,27,University of Louisville,Michigan,45002,10554,58000,81.8,21,17.3,37.6
+152,122,University of Maine,Minnesota,22210,9314,48000,66,15.5,17,28.4
+153,330,"University of Maryland, Baltimore",Mississippi,20674,10128,41000,54.2,14.3,16.5,19
+154,318,"University of Maryland, Baltimore County",Missouri,48093,15280,63000,87.5,26.2,17.6,37.6
+155,57,"University of Maryland, College Park",Michigan,27443,9874,40000,55.2,16.7,16.2,14.6
+156,90,University of Massachusetts Amherst,Connecticut,48974,13504,50000,76.9,23.8,16,30.5
+157,944,University of Massachusetts Boston,Montana,23845,8406,34000,40.2,15.4,15.4,15.4
+158,468,University of Massachusetts Lowell,Nebraska,22446,10310,44000,49.2,10.4,16.5,17.9
+159,717,University of Massachusetts Medical School,Nevada,20733,10730,43000,45.1,15.4,15.7,15.4
+160,333,University of Memphis,Nevada,20961,10240,45000,54,12.3,16.5,19
+161,460,University of Miami,New Mexico,21304,8690,35000,49.5,12.3,15.6,14
+162,956,University of Michigan,Louisiana,21821,9515,38000,40.2,15.4,15.4,15.4
+163,33,University of Minnesota,North Carolina,33673,10902,51000,80.2,20.7,16.5,37.6
+164,565,University of Mississippi,North Carolina,19703,10899,42000,48,15.4,15.4,16.3
+165,566,University of Missouri Columbia,North Carolina,21607,9426,36000,45.8,15.4,16.3,15.4
+166,567,University of Missouria Kansas City,North Dakota,18899,7492,46000,48,14.1,16.4,15.4
+167,568,University of MIssouriaSt. Louis,Texas,19090,8199,42000,45.2,15.4,17,15.4
+168,24,University of Montana,Indiana,47929,13846,70000,83.1,24.4,17.1,37
+169,287,University of Nebraska Lincoln,Oregon,32024,11430,42000,55.7,11.5,16.2,21.9
+170,256,University of Nebraska Medical Center,Oklahoma,21451,9742,47000,57.7,12.9,16.6,22.2
+171,76,University of Nevada  Reno,Pennsylvania,28958,10900,48000,71,18.4,16.5,31.4
+172,8,University of Nevada Las Vegas,Pennsylvania,49536,13990,79000,89.6,27,17.3,38.4
+173,575,University of New Hampshire,Rhode Island,28852,11956,48000,45.4,15.4,16.1,17.2
+174,51,University of New Mexico,New York,48260,14294,56000,74.6,24.2,16.5,28
+175,771,University of New Orleans,Alabama,14364,7450,38000,45.1,15.4,15.4,15.4
+176,270,University of North Carolina at Chapel Hill,South Carolina,30298,9872,42000,57,12.7,16.2,23.6
+177,443,University of North Carolina at Charlotte,Florida,17324,9400,41000,50.3,8,16.4,18.3
+178,16,University of North Carolina at Greensboro,California,50277,13855,67000,87.3,25.4,17.6,36.5
+179,777,University of North Dakota,Mississippi,16204,8850,36000,45.1,15.4,16.5,15.4
+180,476,University of North Texas,Washington,25567,11356,47000,59.4,13.2,17.2,22.8
+181,317,University of Notre Dame,Tennessee,30368,9926,42000,54.6,14,16.6,20.2
+182,593,University of Oklahoma,Texas,19104,8398,46000,48,15.4,15.4,16.4
+183,56,University of Oregon,Texas,34676,11456,53000,73.8,16.5,17.4,33.2
+184,464,University of Pennsylvania,Texas,26894,9944,50000,49.4,9.9,14.9,17.2
+185,1020,University of Pittsburgh,Texas,18959,9429,39000,40.2,15.4,16.2,15.4
+186,783,University of Rhode Island,Texas,17169,10796,44000,40.1,15.4,16.3,15.4
+187,593,University of Rochester,Utah,19133,7780,42000,23.4,15.4,16.6,15.4
+188,56,University of South Alabama,Tennessee,44712,14670,61000,85.3,25.5,17.4,37.4
+189,464,University of South Carolina,Virginia,31463,11280,42000,51.2,13.5,15.7,15
+190,1020,University of South Florida,Virginia,29129,8290,58000,65.8,14,17.3,29.9
+191,783,University of Southern California,North Carolina,47682,12996,60000,74.5,23,16.1,30.8
+192,476,University of Southern Mississippi,Ohio,18885,10613,40000,48.9,12.3,16.5,14.3
+193,318,University of Tennessee Health Science Center,Utah,26022,9000,49000,54.6,13.5,17.1,19
+194,57,University of Tennessee Knoxville,Virginia,44083,10400,59000,73.8,17.7,16,35.1
+195,90,University of Texas at Arlington,Washington,34143,11310,53000,69.6,17.6,16.7,27.9
+196,777,University of Texas at Austin,Washington,34143,11310,53000,69.6,17.6,16.7,27.9
+197,317,University of Texas at Dallas,Wyoming,12770,10037,46000,52.5,15.8,17.3,16.3
+198,375,University of Texas at El Paso,Wyoming,12770,10037,46000,52.5,15.8,17.3,16.3
+199,1025,University of Texas at San Antonio,Utah,19133,7780,42000,23.4,15.4,16.6,15.4
+200,21,University of Texas Health Science Center at Houston,Tennessee,44712,14670,61000,85.3,25.5,17.4,37.4
+201,409,University of Texas Health Science Center at San Antonio,Virginia,31463,11280,42000,51.2,13.5,15.7,15
+202,124,University of Texas MD Anderson Cancer Center,Virginia,29129,8290,58000,65.8,14,17.3,29.9
+203,52,University of Texas Medical Branch at Galveston,North Carolina,47682,12996,60000,74.5,23,16.1,30.8
+204,229,University of Texas Southwestern Medical Center,Washington,25567,11356,47000,59.4,13.2,17.2,22.8
+205,13,University of Toledo,Missouri,48093,15280,63000,87.5,26.2,17.6,37.6
+206,302,University of Utah,Michigan,27443,9874,40000,55.2,16.7,16.2,14.6
+207,45,University of Vermont,Connecticut,48974,13504,50000,76.9,23.8,16,30.5
+208,443,University of Virginia,Utah,26022,9000,49000,54.6,13.5,17.1,19
+209,16,University of Washington,Virginia,44083,10400,59000,73.8,17.7,16,35.1
+210,6,University of Wisconsina Madison,Connecticut,47600,14600,70000,90,26.8,16.9,39.3
+211,119,University of Wisconsina Milwaukee,New York,39530,11250,56000,66.3,23.8,13.8,25
+212,483,University of Wyoming,Michigan,27443,9874,40000,55.2,16.7,16.2,14.6
+213,564,Utah State University,Connecticut,48974,13504,50000,76.9,23.8,16,30.5
+214,63,Vanderbilt University,Montana,23845,8406,34000,40.2,15.4,15.4,15.4
+215,262,Virginia Commonwealth University,Nebraska,22446,10310,44000,49.2,10.4,16.5,17.9
+216,268,Virginia Polytechnic Institute and State University,Nevada,20733,10730,43000,45.1,15.4,15.7,15.4
+217,154,Wake Forest University,Nevada,20961,10240,45000,54,12.3,16.5,19
+218,357,Washington State University,New Mexico,21304,8690,35000,49.5,12.3,15.6,14
+219,53,Washington University in St. Louis,Louisiana,21821,9515,38000,40.2,15.4,15.4,15.4
+220,201,Wayne State University,North Carolina,33673,10902,51000,80.2,20.7,16.5,37.6
+221,409,Wesleyan University,North Carolina,19703,10899,42000,48,15.4,15.4,16.3
+222,410,West Virginia University,North Carolina,21607,9426,36000,45.8,15.4,16.3,15.4
+223,916,Wright State University,North Dakota,18899,7492,46000,48,14.1,16.4,15.4
+224,10,Yale University,Texas,19090,8199,42000,45.2,15.4,17,15.4
+225,174,Yeshiva University,Indiana,47929,13846,70000,83.1,24.4,17.1,37

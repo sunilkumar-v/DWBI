@@ -1,0 +1,226 @@
+webo_id,World.Rank,UniversityName,PresenceRank,ImpactRank,OpennessRank,ExcellenceRank
+1,1419,Albany Medical College,5335,2526,1320,1267
+2,52,Arizona State University,224,38,15,117
+3,352,Auburn University,809,193,366,562
+4,898,Augusta University,2437,2481,686,610
+5,257,Baylor College of Medicine,2009,567,84,134
+6,435,Baylor University,957,231,535,741
+7,515,Binghamton University,1776,317,354,820
+8,309,Boston College,657,135,229,611
+9,43,Boston University,218,52,19,67
+10,689,Bowling Green State University,1535,397,622,1174
+11,416,Brandeis University,1444,259,335,670
+12,248,Brigham Young University,258,88,329,569
+13,70,Brown University,183,66,62,124
+14,38,California Institute of Technology,155,18,25,112
+15,142,Carnegie Mellon University,872,148,113,160
+16,872,Case Western Reserve University,2931,868,651,1162
+17,302,City College of New York,861,167,360,501
+18,581,Clarkson University,1838,688,447,649
+19,123,Clemson University,396,70,144,279
+20,8,College of William and Mary,16,5,26,10
+21,687,Colorado School of Mines,1604,422,1185,991
+22,131,Colorado State University,561,82,145,263
+23,224,Columbia University,793,160,100,377
+24,16,Cornell University,12,29,16,18
+25,597,Creighton University,1094,482,856,804
+26,68,Dartmouth College,568,86,81,65
+27,622,Drexel University,1448,439,409,973
+28,730,Duke University,2133,719,310,989
+29,281,East Carolina University,325,194,249,453
+30,116,Emory University,309,75,124,260
+31,202,Florida Atlantic University,332,83,252,487
+32,527,Florida Institute of Technology,631,76,9593,304
+33,144,Florida International University,427,64,156,368
+34,46,Florida State University,225,57,28,70
+35,262,George Mason University,773,115,279,506
+36,1,George Washington University,1,2,1,1
+37,944,Georgetown University,3319,760,1470,1220
+38,552,Georgia Institute of Technology,4306,1173,3358,147
+39,470,Georgia State University,1267,300,430,770
+40,66,Harvard University,193,31,70,193
+41,94,Howard University,205,71,175,192
+42,18,Hunter College,141,39,34,5
+43,382,Icahn School of Medicine at Mount Sinai,620,275,1163,458
+44,364,Illinois Institute of Technology,971,152,212,678
+45,488,Indiana University  Bloomington,1315,349,373,747
+46,974,Indiana University Purdue University Indianapolis,3392,1284,863,1033
+47,226,Iowa State University,481,133,311,391
+48,929,Johns Hopkins University,3532,1185,938,976
+49,474,Kansas State University,547,340,785,697
+50,819,Kent State University,1549,558,1000,1263
+51,3,Lehigh University,3,1,4,11
+52,496,Loma Linda University,2764,766,383,417
+53,428,Louisiana State University,2424,763,211,346
+54,33,Louisiana Tech University,26,28,13,88
+55,453,Loyola University Chicago,1156,208,793,790
+56,452,Marquette University,872,280,841,675
+57,459,Massachusetts Institute of Technology,1038,293,403,759
+58,1249,Medical College of Wisconsin,1844,458,9593,826
+59,467,Medical University of South Carolina,897,229,747,813
+60,1283,Miami University,7626,3189,602,941
+61,25,Michigan State University,166,25,33,38
+62,76,Michigan Technological University,195,48,169,176
+63,564,Mississippi State University,1113,436,697,793
+64,318,Missouri University of Science and Technology,880,299,816,319
+65,573,Montana State University,1167,315,327,1055
+66,490,New Jersey Institute of Technology,971,268,1049,742
+67,30,New Mexico State University,157,47,30,29
+68,767,New York Medical College,2318,713,642,987
+69,36,New York University,185,46,64,36
+70,531,North Carolina State University,664,346,722,802
+71,476,North Dakota State University,1185,407,385,662
+72,253,Northeastern University,701,445,116,197
+73,117,Northern Arizona University,238,60,216,271
+74,21,Northern Illinois University,50,12,71,41
+75,447,Northwestern University,584,226,424,829
+76,22,Oakland University,11,8,11,77
+77,37,Ohio State University,50,21,98,89
+78,233,Ohio University,914,93,154,517
+79,99,Oklahoma State University,427,69,31,247
+80,430,Old Dominion University,593,121,555,953
+81,448,Oregon Health & Science University,4509,668,134,410
+82,1800,Oregon State University,10608,3409,9593,442
+83,463,Pennsylvania State University,1644,381,668,609
+84,298,Portland State University,943,141,287,532
+85,565,Princeton University,1267,230,798,1040
+86,409,Purdue University,1129,243,205,715
+87,2,Queens College City University of New York,9,3,2,2
+88,1000,Rensselaer Polytechnic Institute,3523,1426,711,1058
+89,196,Rice University,901,285,74,209
+90,1423,Rochester Institute of Technology,10421,1145,9593,534
+91,159,Rockefeller University,748,154,18,251
+92,57,Rush University,179,42,82,103
+93,357,Rutgers University,948,270,186,508
+94,498,Saint Louis University,2337,1000,271,380
+95,80,San Diego State University,271,56,63,210
+96,354,San Francisco State University,979,261,322,474
+97,951,Southern Illinois University Carbondale,7538,2056,640,726
+98,113,Southern Methodist University,477,81,195,218
+99,551,Stanford University,1703,497,518,725
+100,684,State University of New York Upstate Medical University,1238,352,4607,745
+101,48,Stony Brook University,177,33,120,83
+102,413,SUNY Downstate Medical Center,901,257,361,670
+103,749,Syracuse University,3124,1478,267,652
+104,4,Temple University,38,4,3,14
+105,31,Texas A&M University,177,36,59,40
+106,35,Texas Tech University,307,20,37,82
+107,768,The Catholic University of America,1688,1097,314,854
+108,126,Thomas Jefferson University,346,95,99,250
+109,15,Tufts University,140,26,5,15
+110,44,Tulane University,427,99,52,20
+111,61,Uniformed Services University of the Health Sciences,229,49,46,113
+112,120,University at Albany SUNY,504,89,90,236
+113,254,University at Buffalo,610,171,224,405
+114,24,University of Akron,47,19,9,58
+115,146,University of Alabama - Tuscaloosa,830,137,114,200
+116,47,University of Alabama at Birmingham,215,37,67,87
+117,134,University of Alabama in Huntsville,479,113,106,219
+118,798,University of Alaska Fairbanks,2055,408,966,1384
+119,110,University of Arizona,500,43,246,322
+120,535,University of Arkansas - Fayetteville,1393,295,508,884
+121,32,University of Arkansas for Medical Sciences,145,30,54,54
+122,102,"University of California, Berkeley",243,58,179,241
+123,902,"University of California, Davis",1085,753,9593,258
+124,174,"University of California, Irvine",648,112,105,373
+125,477,"University of California, Los Angeles",1173,278,470,798
+126,73,"University of California, Merced",229,61,123,122
+127,161,"University of California, Riverside",465,125,377,213
+128,132,"University of California, San Diego",256,97,250,228
+129,405,"University of California, San Francisco",1223,426,513,432
+130,1316,"University of California, Santa Barbara",1124,452,9593,951
+131,245,"University of California, Santa Cruz",1669,570,166,104
+132,410,University of Central Florida,753,228,374,719
+133,34,University of Chicago,155,24,77,71
+134,86,University of Cincinnati,271,79,29,199
+135,613,University of Colorado Boulder,1373,466,689,870
+136,722,University of Colorado Denver  Anschutz Medical Campus,1610,554,682,1066
+137,631,University of Connecticut,2356,534,415,868
+138,117,University of Dayton,337,124,122,163
+139,6,University of Delaware,29,7,8,3
+140,384,University of Denver,1284,386,411,433
+141,154,University of Florida,355,94,223,305
+142,638,University of Georgia,2097,1062,426,573
+143,123,University of Hawaii at Manoa,192,62,139,307
+144,510,University of Houston,783,393,406,781
+145,469,University of Idaho,1008,307,546,743
+146,328,University of Illinois at Chicago,607,148,178,638
+147,157,University of Illinois at Urbana  Champaign,441,123,173,249
+148,1015,University of Iowa,2962,919,1476,1273
+149,639,University of Kansas,1143,468,590,938
+150,695,University of Kentucky,1948,310,1167,1195
+151,357,University of Louisville,221,162,301,663
+152,132,University of Maine,298,84,69,299
+153,198,"University of Maryland, Baltimore",852,147,391,273
+154,160,"University of Maryland, Baltimore County",418,78,27,424
+155,10,"University of Maryland, College Park",23,11,32,13
+156,41,University of Massachusetts Amherst,186,55,96,39
+157,482,University of Massachusetts Boston,907,298,337,822
+158,81,University of Massachusetts Lowell,509,85,22,143
+159,1118,University of Massachusetts Medical School,3919,1544,487,1292
+160,188,University of Memphis,716,140,263,288
+161,145,University of Miami,200,91,217,286
+162,29,University of Michigan,184,23,49,55
+163,846,University of Minnesota,1626,503,946,1410
+164,114,University of Mississippi,449,96,167,202
+165,607,University of Missouri Columbia,2737,1254,1236,349
+166,432,University of Missouria Kansas City,2135,724,103,396
+167,600,University of MIssouriaSt. Louis,1679,608,681,728
+168,334,University of Montana,247,51,9593,94
+169,274,University of Nebraska Medical Center,589,163,110,478
+170,54,University of Nebraska Lincoln,242,32,95,116
+171,5,University of Nevada Las Vegas,13,6,40,6
+172,454,University of Nevada  Reno,1525,348,539,630
+173,327,University of New Hampshire,557,138,524,588
+174,58,University of New Mexico,271,68,58,61
+175,230,University of New Orleans,664,203,208,315
+176,78,University of North Carolina at Chapel Hill,252,54,137,180
+177,313,University of North Carolina at Charlotte,1194,328,655,291
+178,167,University of North Carolina at Greensboro,169,181,125,220
+179,868,University of North Dakota,1557,447,641,1671
+180,340,University of North Texas,857,207,514,488
+181,711,University of Notre Dame,1300,614,873,960
+182,13,University of Oklahoma,17,14,14,19
+183,356,University of Oregon,2227,556,215,261
+184,81,University of Pennsylvania,2097,1062,426,573
+185,1118,University of Pittsburgh,192,62,139,307
+186,188,University of Rhode Island,783,393,406,781
+187,145,University of Rochester,1008,307,546,743
+188,29,University of South Alabama,607,148,178,638
+189,846,University of South Carolina,441,123,173,249
+190,114,University of South Florida,2962,919,1476,1273
+191,607,University of Southern California,1143,468,590,938
+192,432,University of Southern Mississippi,1948,310,1167,1195
+193,600,University of Tennessee Health Science Center,221,162,301,663
+194,334,University of Tennessee Knoxville,298,84,69,299
+195,274,University of Texas at Arlington,852,147,391,273
+196,54,University of Texas at Austin,418,78,27,424
+197,5,University of Texas at Dallas,23,11,32,13
+198,454,University of Texas at El Paso,186,55,96,39
+199,327,University of Texas at San Antonio,907,298,337,822
+200,58,University of Texas Health Science Center at Houston,509,85,22,143
+201,230,University of Texas Health Science Center at San Antonio,3919,1544,487,1292
+202,78,University of Texas MD Anderson Cancer Center,716,140,263,288
+203,454,University of Texas Medical Branch at Galveston,200,91,217,286
+204,327,University of Texas Southwestern Medical Center,184,23,49,55
+205,58,University of Toledo,1626,503,946,1410
+206,230,University of Utah,449,96,167,202
+207,78,University of Vermont,2737,1254,1236,349
+208,13,University of Virginia,2135,724,103,396
+209,454,University of Washington,1679,608,681,728
+210,327,University of Wisconsina Madison,247,51,9593,94
+211,58,University of Wisconsina Milwaukee,589,163,110,478
+212,230,University of Wyoming,242,32,95,116
+213,78,Utah State University,13,6,40,6
+214,313,Vanderbilt University,1525,348,539,630
+215,167,Virginia Commonwealth University,557,138,524,588
+216,868,Virginia Polytechnic Institute and State University,271,68,58,61
+217,340,Wake Forest University,664,203,208,315
+218,711,Washington State University,252,54,137,180
+219,13,Washington University in St. Louis,1194,328,655,291
+220,356,Wayne State University,169,181,125,220
+221,167,Wesleyan University,1557,447,641,1671
+222,868,West Virginia University,857,207,514,488
+223,340,Wright State University,1300,614,873,960
+224,711,Yale University,17,14,14,19
+225,13,Yeshiva University,2227,556,215,261

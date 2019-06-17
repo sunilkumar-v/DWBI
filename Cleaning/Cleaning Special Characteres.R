@@ -1,0 +1,17 @@
+library(stringr)
+times <- read.csv(file="E:/DWBI PROJECT/Timesdatasunil.csv", header=TRUE, sep=",")
+usnews<-read.csv(file="E:/DWBI PROJECT/TimesUsRanks.csv",header = TRUE,sep=",")
+times <- data.frame(times)
+usnews<-data.frame(usnews)
+View(usnews)
+expdata<-left_join(times, usnews, by= c(""))
+MyData$Name <- str_replace(MyData$Name, "Explore", " ")
+MyData$Name <- str_replace(MyData$Name, "-", " ")
+MyData$Rank <- str_replace_all(MyData$Rank,"=","")
+MyData$Rank <- c(1:1056)
+MyData <- MyData[,1:6]
+second <-read.csv(file="E:/DWBI PROJECT/timesdatascraoing2.csv",header = TRUE,sep=",")
+second <-second[,3:6]
+MyData <-data.frame(MyData,second)
+write.csv(MyData,file="E:/DWBI PROJECT/TimesUsRanks.csv",row.names = F)
+write.csv(twittersentiment,file="E:/DWBI PROJECT/TwitterSentiment.csv",row.names = F)
