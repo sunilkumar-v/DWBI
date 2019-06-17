@@ -17,6 +17,8 @@ The Project is to make a Data Warehouse which will give the details of the Unive
 
 Data Collection
 
+We need to do the webscaraping  to get the data from the different websites to make them unite
+
 
 
 
